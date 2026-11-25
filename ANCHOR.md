@@ -1,0 +1,7 @@
+# Anchor
+
+drand beacon (api.drand.sh), quoted BEFORE the first write of main.ts:
+
+- round: 6671966
+- randomness: bec14457b37fdd204cccfa1fbdd48a05f28c7ee4b1f62a742bf7a62398e8c353
+- signature: 9887ef89b346aec3431c635c64abe94ee3c85a8cea3d68130872158c5151906837c6e41a0b350a13493db64e420623da1873d688f5c153d2ab94aae9d6662d4d2d456de0c48f5bc47b03966b8d3d26b94ff7b1c1aa1bf00fb44a5611e76a8bbc
