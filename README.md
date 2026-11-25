@@ -1,8 +1,8 @@
 # One Line, No Deadline Met — @syukuran entry
 
 [![make.fun](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce)
-[![rank](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/syukuran/no-deadline-syukuran/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce)
-[![reward](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/syukuran/no-deadline-syukuran/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce)
+[![rank](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/berkahmuse/no-deadline-syukuran/rank.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce)
+[![reward](https://make.fun/badge/u-markk-st-one-line-no-deadline-met-6adc00ce/berkahmuse/no-deadline-syukuran/reward.svg)](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce)
 
 Entry for the [One Line, No Deadline Met](https://make.fun/bounty/u-markk-st-one-line-no-deadline-met-6adc00ce) competition on [make.fun](https://make.fun): a program that writes one single-line joke giving an excuse for a missed deadline, capped at 200 characters.
 
